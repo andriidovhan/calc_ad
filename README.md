@@ -1,6 +1,6 @@
 # CalcAd
 
-rub[![Build Status](https://travis-ci.org/andriidovhan/calc_ad.png)](https://travis-ci.org/andriidovhan/calc_ad)
+[![Build Status](https://travis-ci.org/andriidovhan/calc_ad.png)](https://travis-ci.org/andriidovhan/calc_ad)
 
 # Pleas don't use this gem.
 # it is for my expirience only.
@@ -9,9 +9,9 @@ rub[![Build Status](https://travis-ci.org/andriidovhan/calc_ad.png)](https://tra
 
 # How to use:
 
-Calc.new(first_operand, second_operand).action(addition/substraction/multiply/division)
+CalcAd.[addition/substraction/multiply/division](first_operand, second_operand)
 
-Calc.new(2,3).addition
+CalcAd.addition(2,3)
 => 5
 
 
