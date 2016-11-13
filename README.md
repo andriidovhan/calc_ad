@@ -8,8 +8,9 @@
 
 
 # How to use:
+manipulation - addition/substraction/multiply/division
 
-CalcAd.[addition/substraction/multiply/division](first_operand, second_operand)
+CalcAd.manipulation(first_operand, second_operand)
 
 CalcAd.addition(2,3)
 => 5
