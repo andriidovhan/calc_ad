@@ -1,0 +1,10 @@
+sudo: false
+language: ruby
+rvm:
+  - 2.3.0
+before_install:
+- gem install bundler -v 1.13.6
+- rvm install 2.3.0
+script:
+  - bundle exec rubocop
+  - bundle exec rspec
