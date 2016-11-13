@@ -1,7 +1,6 @@
 # CalcAd
 
-
-[![Build Status](https://travis-ci.org/andriidovhan/calc_ad.png)](https://travis-ci.org/andriidovhan/calc_ad)
+rub[![Build Status](https://travis-ci.org/andriidovhan/calc_ad.png)](https://travis-ci.org/andriidovhan/calc_ad)
 
 # Pleas don't use this gem.
 # it is for my expirience only.
